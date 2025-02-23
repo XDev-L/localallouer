@@ -530,7 +530,7 @@ body{
 }
 @media (max-width:768px) {
   .about .about-content .image img{
-    max-height: 50%;
+    max-height: 70%;
   }
 }
 .about .about-content .about-info{
