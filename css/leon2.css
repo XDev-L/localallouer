@@ -696,4 +696,10 @@ button:hover {
   left: 50%;
   transform: translateX(-50%);
 }
+@media (max-width:767px) {
+  .footer .copyright-text{
+    left: 0;
+    transform: translateX(0);
+  }
+}
 /* End Footer */
