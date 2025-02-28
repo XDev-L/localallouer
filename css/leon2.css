@@ -690,4 +690,10 @@ button:hover {
   margin-bottom: 20px;
   color: var(--secondaryColor);
 }
+.footer .copyright-text{
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+}
 /* End Footer */
