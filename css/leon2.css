@@ -577,7 +577,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 80px;
+  margin-top: 34px;
 }
 
 .contact .formulaire .form-container {
@@ -642,8 +642,8 @@ button:hover {
 
 /* Start Footer */
 .footer{
-  padding-top: 20px;
-  padding-bottom: 10px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   text-align: center;
   font-size: 19px;
   background-color: #f6f6f6;
@@ -658,8 +658,8 @@ button:hover {
   font-weight: 800;
   color: var(--secondaryColor);
   letter-spacing: -2px;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .footer .footer-info .label + a{
   display: block;
@@ -677,8 +677,8 @@ button:hover {
 .footer .footer-info .social:nth-of-type(1){
   display: flex;
   justify-content: center;
-  margin-top: 14px;
-  margin-bottom: 10px;
+  margin-top: 21px;
+  margin-bottom: 30px;
   font-size: 16px;
 }
 .footer .footer-info .social i{
