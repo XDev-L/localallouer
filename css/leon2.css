@@ -692,7 +692,6 @@ button:hover {
 }
 .footer .copyright-text{
   position: absolute;
-  bottom: 0px;
   left: 50%;
   transform: translateX(-50%);
 }
